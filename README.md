@@ -34,7 +34,7 @@ Komponen Yang Digunakan:
 6. 1 Buah Buzzer
 7. 3 Buah Button
 
-Link Video:
+Link Video: https://youtu.be/bQvwRktiVbI 
 
 #
 1. Design Schematic:
